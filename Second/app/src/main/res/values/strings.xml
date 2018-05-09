@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Second</string>
+
+    <string name="test">Internally, FAB has two main implementations: one for SDK >= 21, one for
+       earlier versions; the one for older versions uses extra padding in order to draw shadows; you don\'t
+       need to account for the extra padding as the library takes care of it
+        When used in a CoordinatorLayout FAB is known to have its margin values i
+       gnored / misused under certain circumstances; as a workaround the library alway
+       s adds left or right margin values (depending on gravity), taking into account the SDK version too.</string>
+    <string name="title_activity_notes">Notes</string>
+    <string name="type_question">Type Question</string>
+
+</resources>

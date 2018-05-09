@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ask_teacher"
+        android:title="ASK A TEACHER"
+        android:icon="@mipmap/ask_teacher"
+        android:orderInCategory="101"/>
+
+    <item
+        android:id="@+id/assignment"
+        android:title="ASSIGNMENT"
+        android:orderInCategory="100"
+        android:icon="@mipmap/assignment"/>
+
+</menu>
